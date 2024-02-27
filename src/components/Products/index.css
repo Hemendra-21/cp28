@@ -1,0 +1,10 @@
+/* Write your CSS code here */
+.product-route {
+  height: 200px;
+}
+.products-container {
+  height: 80vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
